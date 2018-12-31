@@ -1,0 +1,27 @@
+#square {
+    position:relative;
+    margin: 40px 450px;
+    height: 316px;
+    width: 316px;
+    background-color: #87A2B5;
+}
+
+#square div {
+    float:left;
+    position:relative;
+    background-color: white;
+    border: 2px;
+    border-radius: 2px;
+    height: 100px;
+    width: 100px;
+    margin-top: 4px;
+    margin-left:4px;
+}
+
+.zhimg {
+    position:relative;
+    float:left;
+    width: 50%;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
